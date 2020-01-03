@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>自作web No,2</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <header>
+       <p class="yoko">jisakuweb No.2</p>
+      <h1 class="tate">SABOTENN</h1>
+      <h2 class="tate">cactus</h2>
+
+    </header>
+    <div class="containers">
+      <h1 class="click">Profeel</h1>
+      <ul>
+        <li class="slide">name   <span class="white"> sakai</span> </li>
+        <li class="slide">birthday   <span class="white"> 2001/12/30</span> </li>
+        <li class="slide">age   <span class="white"> 18</span> </li>
+        <li class="slide">hobby   <span class="white"> game</span> </li>
+
+
+      </ul>
+
+    </div>
+    <footer>
+      <div class="twitter">
+        <a class="btn" href="https://twitter.com/ST77374424">
+          <i class="fab fa-twitter icon"></i>
+        </a>
+      </div>
+    </footer>
+
+
+
+    <script src="script.js"></script>
+  </body>
+</html>
